@@ -440,8 +440,8 @@ span.CodeMirror-selectedtext { background: none; }
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url(674f50d287a8c48dc19ba404d20fe713.eot);
-  src: url(674f50d287a8c48dc19ba404d20fe713.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(af7ae505a9eed503f8b8e6982036873e.woff2) format('woff2'), url(fee66e712a8a08eef5805a46892932ad.woff) format('woff'), url(b06871f281fee6b241d60582ae9369b9.ttf) format('truetype'), url(912ec66d7572ff821749319396470bde.svg#fontawesomeregular) format('svg');
+  src: url(https://cdn.astexplorer.net/674f50d287a8c48dc19ba404d20fe713.eot);
+  src: url(https://cdn.astexplorer.net/674f50d287a8c48dc19ba404d20fe713.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(https://cdn.astexplorer.net/af7ae505a9eed503f8b8e6982036873e.woff2) format('woff2'), url(https://cdn.astexplorer.net/fee66e712a8a08eef5805a46892932ad.woff) format('woff'), url(https://cdn.astexplorer.net/b06871f281fee6b241d60582ae9369b9.ttf) format('truetype'), url(https://cdn.astexplorer.net/912ec66d7572ff821749319396470bde.svg#fontawesomeregular) format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -2771,11 +2771,11 @@ span.CodeMirror-selectedtext { background: none; }
 
 @font-face {
   font-family: "fontcustom";
-  src: url(7c37aa6872f8d8cb559e45de67233221.eot);
-  src: url(7c37aa6872f8d8cb559e45de67233221.eot?#iefix) format("embedded-opentype"),
+  src: url(https://cdn.astexplorer.net/7c37aa6872f8d8cb559e45de67233221.eot);
+  src: url(https://cdn.astexplorer.net/7c37aa6872f8d8cb559e45de67233221.eot?#iefix) format("embedded-opentype"),
        url(data:application/font-woff;base64,d09GRgABAAAAAAUoAA0AAAAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAFDAAAABoAAAAcfTWgcE9TLzIAAAGkAAAASQAAAGBP8Vx/Y21hcAAAAgQAAABGAAABSuH0Ff9jdnQgAAACTAAAAAQAAAAEABEBRGdhc3AAAAUEAAAACAAAAAj//wADZ2x5ZgAAAlwAAAFVAAABoLrQOoFoZWFkAAABMAAAADEAAAA2CfcrLmhoZWEAAAFkAAAAHQAAACQDzgHLaG10eAAAAfAAAAAUAAAAFAQtAC5sb2NhAAACUAAAAAwAAAAMAFQBJG1heHAAAAGEAAAAHwAAACAAVgCUbmFtZQAAA7QAAAEoAAACH+SlneRwb3N0AAAE3AAAACUAAAA0TXGftnjaY2BkYGAAYnPJk4Lx/DZfGbiZGEDgSuHXCCgdySD4/yjjY8bdQC4HA1gaACZlC30AAAB42mNgZGBg3P3/KIMeEwMIMD5mYGRABawAYVADnAAAAHjaY2BkYGBgZUhm4GcAASYgZmQAiTkw6IEEAA6qAOsAeNpjYGFMYZzAwMrAwOjDmMbAwOAOpb8ySDK0MDAwMbAyM8AAowADAgSkuaYwNDAofGRgPPD/AIMe424Ga5AaJCUKDIwAESgLEwAAAAC7ABEAAAAAAKoAAADIAAACAAAdeNpjYGBgZoBgGQZGBhBwAfIYwXwWBg0gzQakGRmYGBQ+Mvz/D+SD6f+P+Vmg6oGAkY0BzmFkAhJMDKiAEWLFcAYAxGYI5gAAABEBRAAAACoAKgAqACoA0HjaTY0/S8NQFMXv7bN9vNfS5uU1LSRYW9M0g1ihsWYpgrMILgVxVGy/gR1dHfwC/oMODoJTo4sKgoNjBHc3V/0GEr2pKF449/7OGc6FDCgAOMY+MODQniAs9SI+Ax+dSS772otYhhAmLI2zaRzxHH72IkzzQAXKD5SrDkeDAfaTK4UBtZVg9usJ3/B+2pknr6EKDsyBC4sQwhqswxbsACDzNes2rBL6ocf9sErSnIWsG1gNkp9mRWzjKtaQe79UwlZ6itjyvT9i863llU7FKhczrvrhcs7FaqzjFzy5y8d5PKDlxPn4Ucf61sJNKxfJ6wXRrEvdrAuRnBIKk6zcEKLe1LLeFLgn6ZhkxZG27ZbNC0pMwdY4Ts4l7iYXlcq2HpkP5r7W++YouaRQJuN3Gj40hjVDapd+uMazIdP6KblUT/pHyY3jUatQBY5ntueQg2/i11EPAAAAeNqNkDFrwzAQhZ8SJ6UZSikZuhS0NYHYyBoyZOkQ8JBAKR2yByM7BtcKsj0EOvb39Nf053Tos6PSpdBaWPed7nTvIQBXeIfA+buF9iwwwd7zABd49TzEPT48B5iIG88jXIsHz2OeZ+wUwSUz1d/qWGCKrecBdUvPQzzizXPAnk/PI0hx53mMqXjCGhZHnOBQIMcBDSRmSDFn1FSKscSCvIFBxoW1PZ5ckR8aOUvnUqt4uZAbk7GScVTFASla1IwWLzy0VZO2dWPJz5yRs1jyHRxTk7flnpD4i1107DC9dkR1iRX/3wafKzF7Qu6a+7dbJJRMrMuN1JGSK/ljgUmswliHne1/GN7RimOp6BslBTqJqI+dOeyMqwtbSaXiSCkl/575BX/wVcZ42mNgYgCD/wcYJBmwAVYgZmRgYmBmZGIvzct0MzQwAABbuwQTAAAAAAAAAf//AAJ42mNgYGBkAIIrgVv3genCrxFQOhIAUnsHvwAA) format("woff"),
-       url(156a6c9b24a2f87d2d834e17fe0488b4.ttf) format("truetype"),
-       url(6a11b6381f7e38ee80f6d50e05043004.svg#fontcustom) format("svg");
+       url(https://cdn.astexplorer.net/156a6c9b24a2f87d2d834e17fe0488b4.ttf) format("truetype"),
+       url(https://cdn.astexplorer.net/6a11b6381f7e38ee80f6d50e05043004.svg#fontcustom) format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -2783,7 +2783,7 @@ span.CodeMirror-selectedtext { background: none; }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url(6a11b6381f7e38ee80f6d50e05043004.svg#fontcustom) format("svg");
+    src: url(https://cdn.astexplorer.net/6a11b6381f7e38ee80f6d50e05043004.svg#fontcustom) format("svg");
   }
 }
 
